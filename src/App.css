@@ -1,0 +1,49 @@
+body {
+  font-family: Arial;
+  margin: 10px;
+  background-color: #e0e0e0;
+}
+
+h1 {
+  text-align: left;
+  color: black;
+  padding: 10px;
+}
+
+div.article {
+  background-color: #fff;
+  border: 1px solid black;
+  padding: 12px;
+  margin: 15px;
+}
+
+h2 {
+  color: blue;
+  font-size: 18px;
+}
+
+p {
+  color: gray;
+  font-size: 14px;
+}
+
+fieldset {
+  border: 2px solid black;
+  padding: 15px;
+  margin: 15px;
+}
+
+input, textarea {
+  width: 90%;
+  margin-top: 5px;
+  margin-bottom: 15px;
+  padding: 8px;
+  border: 2px solid black;
+}
+
+button {
+  background-color: lightgray;
+  padding: 5px;
+  border: 1px solid black;
+}
+
